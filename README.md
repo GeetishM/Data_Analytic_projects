@@ -24,8 +24,9 @@ This project explores **customer shopping behavior** to uncover insights about p
 - [👉 View Project](./customer_trends_data_analysis)
 
 ### 🚚 [2. Supply Chain Data Analysis](./supply_chain_data_analysis)
-*Currently under development / planning phase.*
-- This project will focus on analyzing supply chain efficiencies, logistics, and inventory management.
+This project analyzes **e-commerce delivery operations** to identify logistics bottlenecks and predict shipping delays.
+- **Tools Used:** Python (Pandas, Matplotlib, Seaborn), Scikit-Learn, Imbalanced-Learn.
+- **Highlights:** Exploratory Data Analysis of delivery bottlenecks, frequency encoding, SMOTE class balancing, and training a Random Forest Classifier to predict late delivery risk.
 - [👉 View Project](./supply_chain_data_analysis)
 
 ---
