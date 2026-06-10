@@ -77,7 +77,7 @@ flowchart TD
 
     subgraph PREP[⚙️ Feature Engineering]
         direction TB
-        P1[Select Predictors (X) & Target (y)]:::process
+        P1["Select Predictors (X) & Target (y)"]:::process
         P2[Frequency Encoding Categories]:::process
         P3[Train/Test Split]:::process
         P4[SMOTE Balancing]:::process
